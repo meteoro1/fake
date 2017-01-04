@@ -1,6 +1,17 @@
 Dit is een faketekst. 
 Alles wat hier staat is slechts om een indruk te geven van het grafische effect van tekst op deze plek.
 Wat u hier leest is een voorbeeldtekst. 
+================ added new text ===========
+
+Today we are testting this again to get more expiriance !
+
+Who know if this will work or not ?
+
+We will see later today if it is finished.
+
+================ end of new text =========
+
+
 Deze wordt later vervangen door de uiteindelijke tekst, die nu nog niet bekend is. 
 De faketekst is dus een tekst die eigenlijk nergens over gaat. 
 Het grappige is, dat mensen deze toch vaak lezen. 
